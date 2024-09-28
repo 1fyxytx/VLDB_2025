@@ -1,4 +1,4 @@
-# SIGMOD_2025_Round3
+# VLDB 2025
 
 IndexC.cpp is the source code of Our method BatchPL. To run this program, you need to do the following steps:
 
